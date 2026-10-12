@@ -1,0 +1,17 @@
+LAB | API Calling to ChatGPT
+Product Listing Generator
+
+1. API Integration
+I developed a Python application that uses the OpenAI API and GPT-4o-mini to automatically generate e-commerce product listings. The application loads the API key securely from a .env file, converts product images into base64, and sends the images together with product information to the API. The generated responses are parsed as JSON and saved to product_listings.json.
+
+2. Challenges
+During development, I encountered a filename issue that prevented Python from locating my script. I also had to adjust the image handling to support PNG files. Both issues were resolved. I tested error handling by temporarily removing a product image. The application correctly reported the missing file and continued processing the remaining products.
+
+3. Quality of Generated Listings
+The application successfully generated listings for three products: wireless headphones, running shoes, and a coffee mug. The results include product titles, descriptions, features, and SEO keywords. The output is structured and suitable as a starting point for e-commerce listings. However, some generated product specifications require manual verification, and descriptions may not always meet the requested word count.
+
+4. Potential Improvements
+Future improvements could include validating JSON fields and description lengths, checking technical claims against verified product metadata, adding automatic retries for temporary API failures, and improving batch processing. The application could also be integrated directly into an e-commerce platform.
+
+Conclusion
+The project demonstrates how the OpenAI API and vision capabilities can automate product listing creation, reducing manual work while maintaining a consistent output structure.

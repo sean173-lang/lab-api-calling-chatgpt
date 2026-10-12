@@ -1,0 +1,71 @@
+[
+  {
+    "product_id": 1,
+    "title": "Wireless Headphones",
+    "description": "Experience premium sound quality with these sleek and comfortable wireless headphones. Designed for an immersive listening experience, they are perfect for music lovers, gamers, or anyone looking to escape into their audio world.",
+    "features": [
+      "Comfortable over-ear design",
+      "Bluetooth connectivity for wireless freedom",
+      "Long battery life for extended listening",
+      "Built-in microphone for hands-free calls",
+      "Quick charge feature with USB-C",
+      "Lightweight and portable design"
+    ],
+    "keywords": [
+      "wireless headphones",
+      "Bluetooth headphones",
+      "over-ear headphones",
+      "sound quality",
+      "comfortable fit",
+      "microphone",
+      "USB-C charging"
+    ],
+    "price": 79.99,
+    "category": "Electronics"
+  },
+  {
+    "product_id": 2,
+    "title": "Men's Mesh Running Shoes",
+    "description": "Elevate your running experience with these stylish and comfortable men's running shoes. Designed for performance and breathability, they're perfect for athletes and casual runners alike. The shoes feature a breathable mesh upper, providing excellent ventilation during your workouts. The lightweight design and cushioned sole ensure comfort from the first step to the last. Perfect for daily training or weekend runs.",
+    "features": [
+      "Breathable mesh upper",
+      "Cushioned sole for comfort",
+      "Lightweight design",
+      "Stylish blue color",
+      "Durable rubber outsole"
+    ],
+    "price": 59.99,
+    "category": "Fashion",
+    "keywords": [
+      "running shoes",
+      "men's shoes",
+      "athletic footwear",
+      "breathable shoes",
+      "comfortable running shoes"
+    ]
+  },
+  {
+    "product_id": 3,
+    "title": "Classic White Coffee Mug",
+    "description": "Enjoy your favorite beverages in style with our Classic White Coffee Mug. This essential kitchen item is perfect for coffee, tea, or any warm drink you desire. Its sleek and minimalist design makes it suitable for any occasion, whether at home or in the office.",
+    "features": [
+      "Durable ceramic construction",
+      "Classic white finish",
+      "Comfortable handle for easy gripping",
+      "Microwave and dishwasher safe",
+      "Generous capacity for beverages"
+    ],
+    "keywords": [
+      "coffee mug",
+      "ceramic mug",
+      "kitchenware",
+      "white mug",
+      "beverage cup",
+      "home",
+      "dishwasher safe",
+      "microwave safe"
+    ],
+    "price": 14.99,
+    "category": "Home"
+  }
+]
